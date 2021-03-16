@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArithmeticTest</string>
+    <string name="Restart">Начать заново</string>
+    <string name="text_view">TextView</string>
+</resources>
